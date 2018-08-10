@@ -4,7 +4,7 @@ class Dog
     @name 
   end
   
-def color=
+def name=(new_name)
   
   def breed 
     @breed
