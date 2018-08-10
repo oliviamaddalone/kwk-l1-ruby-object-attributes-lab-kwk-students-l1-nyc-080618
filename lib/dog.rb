@@ -20,3 +20,13 @@ end
 newdog = Dog.new
 newdog.name="Fido"
 puts newdog.name
+newdog.name="Lassie"
+puts newdog.name
+
+def sayhi(name)
+  puts "hi #{name}"
+end
+
+sayhi("Gracie")
+sayhi
+end
