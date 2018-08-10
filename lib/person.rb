@@ -9,6 +9,7 @@ class Person
   end 
   
   def job
+    @job
     
     
     
