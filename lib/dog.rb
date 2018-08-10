@@ -16,15 +16,3 @@ class Dog
     @breed=new_breed
   end 
 end 
-
-newdog = Dog.new
-newdog.name="Fido"
-newdog.name="Lassie"
-puts newdog.name
-
-def sayhi(name)
-  puts "hi #{name}"
-end
-
-sayhi("Gracie")
-sayhi("Sophia")
