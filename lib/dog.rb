@@ -4,7 +4,7 @@ class Dog
     @name 
   end
   
-
+def color=
   
   def breed 
     @breed
